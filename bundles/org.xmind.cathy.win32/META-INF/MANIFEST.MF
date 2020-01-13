@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: %pluginName
+Bundle-SymbolicName: org.xmind.cathy.win32;singleton:=true
+Bundle-Version: 3.7.4.qualifier
+Bundle-Vendor: %providerName
+Fragment-Host: org.xmind.cathy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ClassPath: .
+Bundle-Localization: fragment_win32
+Export-Package: org.xmind.cathy.internal;x-internal:=true,
+ org.xmind.cathy.internal.win32;x-internal:=true
+Eclipse-PlatformFilter: (osgi.ws=win32)
