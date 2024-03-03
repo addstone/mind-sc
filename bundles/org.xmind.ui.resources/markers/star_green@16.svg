@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.7 (28169) - http://www.bohemiancoding.com/sketch -->
-    <title>star_gre</title>
-    <desc>Created with Sketch.</desc>
-    <defs>
-        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
-            <stop stop-color="#00D156" offset="0%"></stop>
-            <stop stop-color="#00C050" offset="100%"></stop>
-        </linearGradient>
-    </defs>
-    <g id="最终稿2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="star" transform="translate(-63.000000, 0.000000)" fill="url(#linearGradient-1)">
-            <polygon id="star_gre" points="70.9468999 12.6216032 66.2446179 15.0937391 67.1426738 9.85767113 63.3384478 6.1494672 68.5957589 5.38553517 70.9468999 0.621603151 73.2980409 5.38553517 78.555352 6.1494672 74.751126 9.85767113 75.6491819 15.0937391"></polygon>
-        </g>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" version="1.1" viewBox="0 0 16 16"><title>star_gre</title><desc>Created with Sketch.</desc><defs><linearGradient id="linearGradient-1" x1="50%" x2="50%" y1="0%" y2="100%"><stop offset="0%" stop-color="#00D156"/><stop offset="100%" stop-color="#00C050"/></linearGradient></defs><g id="最终稿2" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><g id="star" fill="url(#linearGradient-1)" transform="translate(-63.000000, 0.000000)"><polygon id="star_gre" points="70.947 12.622 66.245 15.094 67.143 9.858 63.338 6.149 68.596 5.386 70.947 .622 73.298 5.386 78.555 6.149 74.751 9.858 75.649 15.094"/></g></g></svg>
